@@ -137,6 +137,7 @@ h3 {
 
   .hero__description {
     font-size: 14px;
+    margin-bottom: 0;
   }
 
   .hero__about {
